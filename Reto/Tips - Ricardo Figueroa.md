@@ -16,7 +16,13 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
+Ricardo Figueroa
 
+> [!TIP]
+> Resalta algún snippet de código de la siguiente forma, escribe tu código dentro de comillas invertidas (`Incluye un enlace a tus redes o repositorios profesionales de forma clara en tus proyectos.`):
 
-
+```py
+github_profile = "https://github.com/RicarIeee"
+print(f"Visita mi perfil de GitHub: {https://github.com/RicarIeee}")
+```
 <!-- Sección de tips - FIN -->
